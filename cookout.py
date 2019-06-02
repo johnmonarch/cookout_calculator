@@ -11,5 +11,5 @@ while i <= cookout_flavors:
 	total_shakes = total_shakes + combos
 	i += 1
 
-print total_shakes
+print(total_shakes)
 
