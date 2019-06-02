@@ -9,4 +9,5 @@ Performs the following mathematical function:
 
 Future updates:
 
-Will operate as an importable function for sum of combinations
+- Ability to view graphs
+- Will operate as an importable function for sum of combinations
