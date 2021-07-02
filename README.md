@@ -7,7 +7,4 @@ Performs the following mathematical function:
 
 46 'mix-ins' currently possible as base function.
 
-Future updates:
-
-- Ability to view graphs
-- Will operate as an importable function for sum of combinations
+Requires:  numpy
