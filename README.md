@@ -5,6 +5,6 @@ Performs the following mathematical function:
 
 ![Combination sum](/gif.latex.gif)
 
-46 'mix-ins' currently possible as base function.
+42 'mix-ins' currently possible as base function.
 
 Requires:  numpy
