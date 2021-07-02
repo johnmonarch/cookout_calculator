@@ -2,7 +2,7 @@ import math
 import numpy as np
 
 i = 1
-cookout_flavors = 46
+cookout_flavors = 42
 combos = 0
 total_shakes = 0
 
